@@ -3,16 +3,16 @@
  <strong> <samp>Akshay Singh</samp> </strong></a> 👨‍💻
 </h1>
 <p align="center">
-<img src="./assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
+<img src="./assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" style="border-radius: 11px;" >
 </p>
-<p align ="center"><samp>Code is like humor. When you have to explain it, it’s bad.
+<p align ="center" style="font-weight: bold;"><samp>Code is like humor. When you have to explain it, it’s bad.
 <br>
 -Cory House</samp></p>
 
 <h2 align="center"> Computer Science enthusiast with some Web and Android Development background, and I 💞️ to code. </h2>
 <br>
 
-## 💼 Things that I'm currently working on:
+## **💼 Things that I'm currently working on:**
 
 -   Getting the hang of Machine Learning 👨‍💻.
 -   Mastering Competitive Programming .
@@ -21,7 +21,7 @@
 -   Looking forward to learn Cloud ☁️.
 -   Want to contribute to Opensource community.
 
-## 🔭 Things I could do:
+## **🔭 Things I could do:**
 
 -   Code in C, C++, Python, Java, Kotlin and JavaScript.
 -   Web development using Django.
@@ -60,20 +60,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2002Singh&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact" width="350"/>
 </p>
 
+ ### ***Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.***
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Akshay2002Singh&title=Commits,Followers,Joined2020,Repositories&theme=dracula&margin-w=15" />
-</p>
-<!-- <p><img src="https://github-profile-trophy.vercel.app/?username=Akshay2002Singh&theme=onedark" alt="Akshay2002Singh"/></p> -->
+## **Connect with me [here](https://github.com/Akshay2002Singh)**
 
+***I love connecting with different people so if you want to say hi 💬 06akshay2002@gmail.com, I'll be happy to have a chat with you!***
 
- Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
-
-## Connect with me [here](https://github.com/Akshay2002Singh)
-
-I love connecting with different people so if you want to say hi 💬 06akshay2002@gmail.com, I'll be happy to have a chat with you!
-
-Always ready to colabrate with different people and their weird ideas and stuffs.
+> *Always ready to colabrate with different people and their weird ideas and stuffs.*
 
 <p align="center">
     <a href = "https://instagram.com/elite2002akshay?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
@@ -86,9 +79,9 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <img src="./assets/pngwing.com.png" width="500" height="300" >
 </p>
 <p align="center">
-<h3 align="center">&lt;Review my code & Star my repositories&gt;</h3>
+<h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
-<p align ="center"><samp>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+<p align ="center" style="font-weight: bold;"><samp>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <br>
 – Martin Fowler</samp></p>
 
