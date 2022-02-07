@@ -3,11 +3,11 @@
  <strong> <samp>Akshay Singh</samp> </strong></a> 👨‍💻
 </h1>
 <p align="center">
-<img src="./assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" style="border-radius: 11px;" >
+<img src="./assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
 </p>
-<p align ="center" style="font-weight: bold;"><samp>Code is like humor. When you have to explain it, it’s bad.
+<p align ="center" ><samp><strong> Code is like humor. When you have to explain it, it’s bad.
 <br>
--Cory House</samp></p>
+-Cory House</strong></samp></p>
 
 <h2 align="center"> Computer Science enthusiast with some Web and Android Development background, and I 💞️ to code. </h2>
 <br>
@@ -81,9 +81,9 @@
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
-<p align ="center" style="font-weight: bold;"><samp>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+<p align ="center"><samp><strong>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <br>
-– Martin Fowler</samp></p>
+– Martin Fowler</strong></samp></p>
 
 
 <!--
