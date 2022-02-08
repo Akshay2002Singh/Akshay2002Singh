@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://github.com/Akshay2002Singh">
+ Hi developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://github.com/Akshay2002Singh">
  <strong> <samp>Akshay Singh</samp> </strong></a> 👨‍💻
 </h1>
 <p align="center">
@@ -76,7 +76,7 @@
     <img src="https://komarev.com/ghpvc/?username=Akshay2002Singh&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 <p align="center">
-<img src="./assets/pngwing.com.png" width="500" height="300" >
+<img src="./assets/animation_500_kxa883sd.gif" width="550" height="400" >
 </p>
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
