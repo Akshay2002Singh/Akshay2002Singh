@@ -81,6 +81,10 @@
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
+## Just a Snake 🐍 Eating away my Contributions...😭
+<p align="center">
+<img src="https://github.com/Akshay2002Singh/Akshay2002Singh/blob/output/github-contribution-grid-snake.gif" alt="snake eating my contributions">
+</p>
 <p align ="center"><samp><strong>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <br>
 – Martin Fowler</strong></samp></p>
