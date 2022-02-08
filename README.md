@@ -84,12 +84,13 @@
 <p align="center">
 <img src="./assets/animation_500_kxa883sd.gif" width="550" height="400" >
 </p>
-<p align="center">
-<h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
-</p>
+
 <h2 align="center">Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <p align="center">
 <img src="https://github.com/Akshay2002Singh/Akshay2002Singh/blob/output/github-contribution-grid-snake.gif" alt="snake eating my contributions">
+</p>
+<p align="center">
+<h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
 <p align ="center"><samp><strong>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <br>
