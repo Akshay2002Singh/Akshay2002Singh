@@ -75,13 +75,19 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=Akshay2002Singh&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
+
+<h2 align="center">⚡ Recent GitHub Activity</h2>
+<p align="center">
+<a href="https://github.com/Akshay2002Singh"><img alt="Elite's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay2002Singh&custom_title=Elite%27s%20Contribution%20Graph&theme=react-dark" /></a>
+</p>
+
 <p align="center">
 <img src="./assets/animation_500_kxa883sd.gif" width="550" height="400" >
 </p>
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
-<h2>Just a Snake 🐍 Eating away my Contributions...😭</h2>
+<h2 align="center">Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <p align="center">
 <img src="https://github.com/Akshay2002Singh/Akshay2002Singh/blob/output/github-contribution-grid-snake.gif" alt="snake eating my contributions">
 </p>
