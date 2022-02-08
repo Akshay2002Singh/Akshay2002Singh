@@ -76,7 +76,11 @@
     <img src="https://komarev.com/ghpvc/?username=Akshay2002Singh&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 <p align="center">
+<<<<<<< HEAD
 <img src="./assets/animation_500_kxa883sd.gif" width="550" height="400" >
+=======
+<img src="./assets/pngwing.com.png" width="600" height="300" >
+>>>>>>> 322161eccb8d17d918e57ad3104cdfb6d346fd60
 </p>
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
