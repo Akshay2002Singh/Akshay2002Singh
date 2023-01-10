@@ -3,7 +3,7 @@
  <strong> <samp>Akshay Singh</samp> </strong></a> 👨‍💻
 </h1>
 <p align="center">
-<img src="./assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
+<img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
 </p>
 <p align ="center" ><samp><strong> Code is like humor. When you have to explain it, it’s bad.
 <br>
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-<img src="./assets/animation_500_kxa883sd.gif" width="550" height="400" >
+<img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/animation_500_kxa883sd.gif" width="550" height="400" >
 </p>
 
 <h2 align="center">Just a Snake 🐍 Eating away my Contributions...😭</h2>
