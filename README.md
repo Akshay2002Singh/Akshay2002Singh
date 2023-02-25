@@ -87,7 +87,7 @@
 
 <h2 align="center">Just a Snake 🐍 Eating away my Contributions...😭</h2>
 <p align="center">
-<img src="https://github.com/Akshay2002Singh/Akshay2002Singh/blob/output/github-contribution-grid-snake.gif" alt="snake eating my contributions">
+<img src="https://akshay2002singh.github.io/Snake-Eating-my-Contributions/github-contribution-grid-snake.gif" alt="snake eating my contributions">
 </p>
 <p align="center">
 <h2 align="center">&lt;Review my code & Star my repositories&gt;</h3>
