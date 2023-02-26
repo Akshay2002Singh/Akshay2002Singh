@@ -78,7 +78,7 @@
 
 <h2 align="center">⚡ Recent GitHub Activity</h2>
 <p align="center">
-<a href="https://github.com/Akshay2002Singh"><img alt="Elite's Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=Akshay2002Singh&custom_title=Elite%27s%20Contribution%20Graph&theme=react-dark](https://github-readme-activity-graph.cyclic.app/graph?username=Akshay2002Singh&custom_title=Elite%27s%20Contribution%20Graph&theme=react-dark)" /></a>
+<a href="https://github.com/Akshay2002Singh"><img alt="Elite's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Akshay2002Singh&custom_title=Elite%27s%20Contribution%20Graph&theme=react-dark" /></a>
 </p>
 
 <p align="center">
