@@ -1,7 +1,6 @@
 <h1 align='center'>
-<a href="www.linkedin.com/in/akshay2002singh">
  Hi developers <img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/hi.gif" width="30"> I'm
- <strong> Akshay Singh</strong></a> 👨‍💻
+ <strong> Akshay Singh</strong> 👨‍💻
 </h1>
 <p align="center">
 <img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
@@ -31,7 +30,7 @@
 -   Can Perform attacks like DoS, Phishing, Password Cracking.
 -   My IDE Visual Studio Code.
 
-<h2 align="center">🔧 Technologies & Tools Known</h2>
+## 🔧 Technologies & Tools Known
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -107,7 +106,7 @@
     <img src="https://komarev.com/ghpvc/?username=Akshay2002Singh&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 
-<h2 align="center">⚡ Recent GitHub Activity</h2>
+##⚡ Recent GitHub Activity
 <p align="center">
 <img alt="Elite's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2002Singh&theme=react-dark&&radius=8" />
 </p>
