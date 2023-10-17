@@ -30,7 +30,7 @@
 -   Can Perform attacks like DoS, Phishing, Password Cracking.
 -   My IDE Visual Studio Code.
 
-## 🔧 Technologies & Tools Known
+<h2 align="center"> 🔧 Technologies & Tools Known </h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -106,7 +106,7 @@
     <img src="https://komarev.com/ghpvc/?username=Akshay2002Singh&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 
-##⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
 <p align="center">
 <img alt="Elite's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2002Singh&theme=react-dark&&radius=8" />
 </p>
