@@ -1,6 +1,6 @@
 <h1 align='center'>
  Hi developers <img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/hi.gif" width="30"> I'm <a href="www.linkedin.com/in/akshay2002singh">
- <strong> <samp>Akshay Singh</samp> </strong></a> 👨‍💻
+ <strong> Akshay Singh</strong></a> 👨‍💻
 </h1>
 <p align="center">
 <img src="https://akshay2002singh.github.io/Akshay2002Singh/assets/fabio-lucas-aTpGSPfalzY-unsplash.jpg" width="500" height="300" >
